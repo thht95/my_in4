@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root "myinfo#index"
+  root "my_info#index"
 
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
