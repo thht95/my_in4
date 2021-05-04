@@ -7,4 +7,8 @@ class MyInfoController < ApplicationController
   def private
 
   end
+
+  def ccchecker
+
+  end
 end
